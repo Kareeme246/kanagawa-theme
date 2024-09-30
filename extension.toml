@@ -1,0 +1,7 @@
+id = "kanagawa-theme"
+name = "Kanagawa Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Kareem Elgohry <kareemdev52@gmail.com"]
+description = "Port of the Kanagawa neovim theme for Zed"
+repository = "https://github.com/Kareeme246/kanagawa-theme"
